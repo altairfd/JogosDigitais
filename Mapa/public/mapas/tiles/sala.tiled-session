@@ -1,0 +1,106 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "lab.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/altai/OneDrive/Área de Trabalho/Clona Jjogos Digitais/JogoPixel/public/mapas/lab_info1.json": {
+            "scale": 1.32525,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.57743821920388,
+                "y": 85.26693076777966
+            }
+        },
+        "C:/Users/altai/OneDrive/Área de Trabalho/Clona Jjogos Digitais/JogoPixel/public/mapas/lab_info1.json#office": {
+            "scaleInDock": 1
+        },
+        "C:/Users/altai/OneDrive/Área de Trabalho/Clona Jjogos Digitais/JogoPixel/public/mapas/tiles/mapaSala.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 240,
+                "y": 199.75
+            }
+        },
+        "C:/Users/altai/OneDrive/Área de Trabalho/Clona Jjogos Digitais/JogoPixel/public/mapas/tiles/mapaSala.tmx#office": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "C:/Users/altai/OneDrive/Área de Trabalho/Jogo Herick/Project-class-game/public/mapas/tiles/Sala-de-Aula.tmx": {
+            "scale": 1.9791666666666667,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 239.7473684210526,
+                "y": 215.74736842105264
+            }
+        },
+        "C:/Users/altai/OneDrive/Área de Trabalho/Jogo Herick/Project-class-game/public/mapas/tiles/Sala-de-Aula.tmx#tiles_office": {
+            "scaleInDock": 1.5
+        },
+        "D:/lab_info1.json": {
+            "scale": 1.36325,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.2347331743994,
+                "y": 200.62350999449842
+            }
+        },
+        "D:/lab_info1.json#office": {
+            "scaleInDock": 1
+        },
+        "lab.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 289,
+                "y": 234.66666666666663
+            }
+        },
+        "lab.tmx#tiles_floors": {
+            "scaleInDock": 2
+        },
+        "lab.tmx#tiles_office": {
+            "scaleInDock": 2
+        },
+        "lab.tmx#tiles_store": {
+            "scaleInDock": 1.5
+        },
+        "lab.tmx#tiles_walls": {
+            "scaleInDock": 2
+        }
+    },
+    "last.exportedFilePath": "C:/Users/altai/OneDrive/Área de Trabalho/Jogos Digitais/Mapa/public/mapas",
+    "last.imagePath": "C:/Users/altai/OneDrive/Área de Trabalho/Jogos Digitais/Mapa/public/mapas/tiles",
+    "lastUsedTilesetExportFilter": "Todos os Ficheiros (*)",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "lab.tmx"
+    ],
+    "project": "sala.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "lab.tmx",
+        "C:/Users/altai/OneDrive/Área de Trabalho/Jogo Herick/Project-class-game/public/mapas/tiles/Sala-de-Aula.tmx",
+        "C:/Users/altai/OneDrive/Área de Trabalho/Clona Jjogos Digitais/JogoPixel/public/mapas/tiles/mapaSala.tmx",
+        "C:/Users/altai/OneDrive/Área de Trabalho/Clona Jjogos Digitais/JogoPixel/public/mapas/lab_info1.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
