@@ -21,7 +21,6 @@ export default class Player extends Phaser.Physics.Arcade.Sprite {
 
     init() {
         this.setFrame(3);
-
         this.speed = 120;
         this.frameRate = 8;
         this.direction = 'down';
